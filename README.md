@@ -1,5 +1,6 @@
 Readme.md Version# 2022.01.01 (ITSE-2330 and ITSE-2332 Version)
 
+[To download IntelliJ IDEA Community: https://www.jetbrains.com/idea/download/?fromIDE=#section=windows]
 
 ### [Note: Square brackets [ ] contain information, directions, actions, links or tags that you will delete/remove from your Readme.md file once all changes have been made and before submission for review]
 ### [The tag: [Must Update] Indicates Sections of the Readme.md file that must be updated]
